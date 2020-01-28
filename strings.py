@@ -20,6 +20,6 @@ print(my_str.index('e')) # index is to find the location of the data in the stri
 print(my_str.isalpha()) # isalpha is used to print if string is alfhanumeric or not
 
 print("My name is " + my_str) # we can concatenate string + variable
-#print(f"My name is {my_str}")
-print("My name is {0}".format(my_str))
+#print(f"My name is {my_str}") # another way to concatenate on new versions 
+print("My name is {0}".format(my_str)) # We can concatenate using .format() 
 
