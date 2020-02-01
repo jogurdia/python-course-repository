@@ -69,3 +69,4 @@ print(colors)
 
 colors.sort(reverse=True) # sort is used to order elements based on inversed alphabet
 print(colors)
+
